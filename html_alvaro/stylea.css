@@ -1,25 +1,47 @@
 .img1{
     height: 200px;
     width: 200px;
+    
+}
+.img11{
+    height: 200px;
+    width: 200px;
+    margin-left: 450px;
 }
 
 .img2{
-    height: 200px;
+    height: 200px; 
+    width: 200px;
+}
+.img21{
+    height: 200px; 
     width: 200px;
 }
 .img3{
     height: 200px;
     width: 200px;
-
+    
 }
 p{
     text-align: center;
 }
 
-.imgGato1:hover{
+.img1:hover{
     zoom: 1.2;
     display:flex;
 }
+
+.img2:hover{
+    zoom: 1.2;
+    display:flex;
+    
+}
+
+.img3:hover{
+    zoom: 1.2;
+    display:flex;
+}
+
 
 .tituloprincipalgatos{
     margin-top: 300px;
