@@ -2,6 +2,7 @@
     height: 200px;
     width: 200px;
 }
+
 .img2{
     height: 200px;
     width: 200px;
@@ -10,11 +11,18 @@
     height: 200px;
     width: 200px;
 
+}
+p{
+    text-align: center;
+}
 
+.imgGato1:hover{
+    zoom: 1.2;
+    display:flex;
 }
 
 .tituloprincipalgatos{
-    margin-top: 30px;
+    margin-top: 300px;
     color: black;
     font-weight: bold;
     font-size: 40px;
