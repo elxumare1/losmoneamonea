@@ -1,3 +1,4 @@
+
 .imgGatoPrincipal{
     height: 400px;
     width: 400px;
@@ -23,10 +24,12 @@
 
 body{
     background-color: rgba(203, 254, 254, 0.979);
-
+    margin: 0px;
+ 
 }
 
 .tituloPrincipal{
+    margin-top: 30px;
     color: black;
     font-weight: bold;
     font-size: 40px;
@@ -73,13 +76,18 @@ header{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    background-color: black;
 }
 
-ul{
-    display:block;
+.cont-ul{
     background-color: rgb(0, 164, 186);
-
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    justify-content: space-between;
 }
+
+
 a{
     text-decoration: none;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -91,10 +99,10 @@ a{
 
   
 li{
-    margin-left: 0px;
-    margin-right: 0px;
+    display: flex;
+    position: static;
+    list-style: none;
     background-color: rgb(0, 164, 186);
-    display:inline-flex;
     cursor: pointer;
     padding: 20px 100px;
     transition: all 0.5s ease 0s;
