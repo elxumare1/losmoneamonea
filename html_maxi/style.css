@@ -6,11 +6,11 @@
     margin-left: 300px;
 }
 .imgGatoPrincipal:hover{
-    zoom: 1.2;
+    zoom: 1.05;
     display:flex;
 }
 .imgPerroPrincipal:hover{
-    zoom: 1.2;
+    zoom: 1.05;
     display: flex;
 }
 
