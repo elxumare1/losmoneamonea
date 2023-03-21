@@ -1,6 +1,6 @@
 .img1{
 
-    float: unset;
+    
     height: 300px;
     width: 300px;
     margin-top: 100px;
@@ -18,7 +18,7 @@
     float:unset;
     height: 300px; 
     width: 300px;
-    margin-left: 220px;
+    margin-left: 290px;
 
 }
 .img21{
@@ -27,12 +27,13 @@
     width: 400px;
     margin-left:100px;
     margin-top: -450px;
+    
 }
 .img3{
     float: right;
     height: 300px;
     width: 300px;    
-    margin-top: 100PX;
+    margin-top: 100px   ;
     
 }
 .img31{
@@ -49,21 +50,6 @@ p{
     text-align: center;
 }
 
-.img1:hover{
-   
-   
-}
-
-.img2:hover{
-    
-    
-    
-}
-
-.img3:hover{
-   
-   
-}
 
 
 .tituloprincipalgatos{
@@ -140,7 +126,6 @@ li:hover{
     text-shadow: 2px 5px 8px rgba(0, 0, 0, 0.406);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     
-
 
 }
 p{
