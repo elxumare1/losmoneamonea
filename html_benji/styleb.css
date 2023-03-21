@@ -104,16 +104,28 @@ h1{
         
     
 }
+.img1:hover{
+    zoom: 1.2;
+    display:flex;
+}
 .img2{
     float:unset;
     height: 200px;
     width: 200px;
 
 }
+.img2:hover{
+    zoom: 1.2;
+    display:flex;
+}
 .img3{
     float:unset;
     height: 200px;
     width: 200px;
+}
+.img3:hover{
+    zoom: 0,99;
+    display:flex;
 }
 
 
